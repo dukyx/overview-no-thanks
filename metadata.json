@@ -1,0 +1,10 @@
+{
+    "name" : "Overview No Thanks",
+    "description" : "Disables the activities overview at start-up.",
+    "shell-version" : [
+        "40.0"
+    ],
+    "url" : "",
+    "uuid" : "overview-no-thanks@madprincess.github.com",
+    "version" : "1.0"
+}
