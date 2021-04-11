@@ -5,7 +5,6 @@
 const Main = imports.ui.main;
 
 function init() {
-   // overview = new Overview.Overview();
 }
 
 function enable() {
